@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "managerhelp",
+    "slug": "managerhelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
