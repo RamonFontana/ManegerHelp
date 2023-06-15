@@ -16,6 +16,11 @@
     "ios": {
       "bundleIdentifier": "com.managerhelp",
       "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ebc0ae9b-4cb0-468d-a6cf-5e586ea8fb1f"
+      }
     }
   }
 }
