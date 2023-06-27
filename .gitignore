@@ -113,8 +113,3 @@ yarn-error.log
 web-build/
 dist/
 
-# @end expo-cli
-google-services.json
-.gitignore
-.gitignore
-GoogleService-Info.plist
